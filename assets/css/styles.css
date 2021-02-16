@@ -1,0 +1,104 @@
+.page-header.navbar.navbar-fixed-top, .page-header.navbar.navbar-static-top {
+    z-index:12;
+}
+
+.space-1 {
+    margin-top:5px;
+}
+
+.space-2 {
+    margin-top:10px;
+}
+
+.space-3 {
+    margin-top:15;
+}
+
+.space-4 {
+    margin-top:20px;
+}
+
+.space-5 {
+    margin-top:25px;
+}
+
+.form-control.required {
+    background: #fbec88 !important;
+    border: 1px solid #fad42e !important;
+    color: #363636 !important;
+    font-size: 14px !important;
+    padding: 6px 12px !important;
+}
+
+.home {
+    background: #31C7B2;
+    color:#ffffff;
+}
+
+.wf-inbox {
+    background: #ee9219 !important;
+    color:#ffffff;
+}
+
+.wf-inbox:hover {
+    background: #3598dc !important;
+}
+
+.green {
+    color:#237119;
+}
+
+.red {
+    color:#DC1515;
+}
+
+.orange {
+    color:#ff4d1a;
+}
+
+.yellow {
+    color:#ffd700;
+}
+
+.blue {
+    color: #0500FE;
+}
+
+.jqx-fill-state-normal {
+    border: 1px solid #aaa;
+}
+
+.white {
+    color:#ffffff;
+}
+
+.btn {
+    vertical-align:top !important;
+}
+
+.fixed-info {
+    position: fixed;
+    right: 10px;
+    top: 300px;
+    z-index: 50000;
+    width: 200px;
+    opacity: 0.5;
+}
+
+.fixed-info:hover {
+    opacity: 1;
+    cursor:pointer;
+}
+
+.judul-app {
+	padding : 0px;
+	margin: 0px;
+	font-weight:bold;
+}
+
+.bigger-radio {
+    height: 17px;
+    width: 17px;
+    cursor: pointer;
+    vertical-align: middle;
+}
